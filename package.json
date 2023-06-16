@@ -4,6 +4,7 @@
   "description": "JavaScript example starter project",
   "main": "index.html",
   "scripts": {
+    "dev": "next dev",
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
